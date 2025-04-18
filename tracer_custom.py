@@ -15,19 +15,15 @@ df = pd.read_csv(filepath)
 
 # Split driver name, store first 3 letters of surname as `driver_code`
 df['driver_code'] = df['driver'].apply(lambda name: name.split()[-1][:3].upper())
-# print(df.head())
 
 cleaned_df = df[['driver_code', 'lap_number', 'lap_time', 'position', 'team']]
-# print(cleaned_df.head())
 
 num_laps = cleaned_df['lap_number'].max()
 interval_width = num_laps / 10 # TODO what if not an exact integer
-# print("interval width: ", interval_width)
 
 cleaned_df = cleaned_df.sort_values(by=['driver_code', 'lap_number']) # sort to double check
 #assign interval groups
 cleaned_df['interval'] = cleaned_df.groupby('driver_code').cumcount() // interval_width # intervals 0, 1, ...
-# print(cleaned_df.head())
 
 # average laptimes in those intervals
 interval_df = (
@@ -40,7 +36,6 @@ interval_df = (
 # resort interval_df by interval
 interval_df = interval_df.sort_values(by=['interval'])
 interval_df = interval_df[['interval', 'driver_code', 'team', 'interval_avg_lap_time']]
-# print(interval_df.head())
 
 # ---------------------------------------- temporary: averaged_df (averages all lap times) ----------------------------------------
 # TODO: implement logic for animation speed in intervals
@@ -50,7 +45,7 @@ averaged_df = (
       .reset_index()
       .rename(columns={'lap_time': 'avg_lap_time'})
 )
-print(averaged_df.head())
+print(averaged_df.head(20))
 
 # prepopulated, hardcoded lap times
 # lap_times = {
@@ -112,12 +107,41 @@ def animate(frame):
 
     time_elapsed = frame / 30  # seconds
     for driver, speed in speeds.items():
-        s = (speed * time_elapsed * 0.2) % 1.0  # position along track
+        s = (1/speed * time_elapsed * 2) % 1.0  # position along track TODO need to fix
         x = x_interp(s)
         y = y_interp(s)
         dots[driver].set_data([x], [y])
         labels[driver].set_position((x, y + 0.3))
     return list(dots.values()) + list(labels.values())
+    # TODO : keep track of lap number and display it
+
+# def animate(frame):
+    if is_paused['state']:
+        return list(dots.values()) + list(labels.values())
+
+    time_elapsed = frame / 60  # seconds
+    factor = 0.2  # Tune this to speed up/slow down animation
+
+    driver_positions = {}
+
+    for driver, speed in speeds.items():
+        s_total = speed * time_elapsed * factor  # total progress in laps
+        # laps_completed = int(s_total)
+        s = s_total % 1.0  # position on current lap
+
+        x = x_interp(s)
+        y = y_interp(s)
+        dots[driver].set_data([x], [y])
+        labels[driver].set_position((x, y + 0.3))
+
+        driver_positions[driver] = s_total  # full distance for sorting if needed
+
+    # Optional: display live ranking (sorted by distance)
+    sorted_drivers = sorted(driver_positions, key=driver_positions.get, reverse=True)
+    # print("Current order:", " > ".join(sorted_drivers))  # you can remove this line if not needed
+
+    return list(dots.values()) + list(labels.values())
+
 
 fig.canvas.mpl_connect('key_press_event', on_key)
 ani = FuncAnimation(fig, animate, frames=1000, init_func=init, blit=True, interval=33)
