@@ -2,6 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 from scipy.interpolate import interp1d
+import pandas as pd
 
 # TODO: Get driver times by reading in csv (pandas?) and then take averages in intervals and show laps (i.e. for 74 actual laps, run 7.4 laps)
 # TODO: Get driver names in 3 letters
