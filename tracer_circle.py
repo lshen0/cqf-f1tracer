@@ -1,8 +1,8 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
-
-# Harcoded lap times 
+ 
+# Hardcoded lap times 
 lap_times = {
     'Driver A': 90,
     'Driver B': 95,
