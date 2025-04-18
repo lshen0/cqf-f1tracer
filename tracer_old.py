@@ -101,7 +101,6 @@ def animate(frame):
             s = (past_laps + dt) / total_laps
             lap_progress = past_laps + dt  # exact lap count (e.g., 17.42)
             s = lap_progress % 1.0           # current position within the lap
-            lap_number = int(lap_progress)   # how many full laps completed
 
     time_elapsed = frame / 30  # seconds
     for driver, speed in speeds.items():
