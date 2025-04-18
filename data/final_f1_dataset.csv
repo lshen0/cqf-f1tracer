@@ -1,4 +1,4 @@
-driver,lap_number,lap_time,position,Team,championships,employees,engine_manufacturer,aggressiveness,defensive_ability,stamina,total_overtakes,weather
+driver,lap_number,lap_time,position,team,championships,employees,engine_manufacturer,aggressiveness,defensive_ability,stamina,total_overtakes,weather
 Valtteri Bottas,1.0,71.454,1.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
 Valtteri Bottas,2.0,69.441,1.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
 Valtteri Bottas,3.0,69.598,1.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
