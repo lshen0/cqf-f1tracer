@@ -4,9 +4,6 @@ import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 from scipy.interpolate import interp1d
 
-# pause animation (for dev purposes)
-is_paused = {'state': False}
-
 # team colors
 team_colors = {
     'Mercedes': '#00D2BE',
@@ -22,8 +19,8 @@ team_colors = {
 }
 
 # Read CSV into raw_df
-filepath = "data/final_f1_dataset.csv"
-raw_df = pd.read_csv(filepath)
+data_filepath = "data/final_f1_dataset.csv"
+raw_df = pd.read_csv(data_filepath)
 raw_df['driver_code'] = raw_df['driver'].apply(lambda name: name.split()[-1][:3].upper())
 
 # Create df (cleaned)
@@ -42,12 +39,23 @@ max_laps = df['lap_number'].max()
 
 # Normalize cumulative race times
 max_cumulative_time = df['cumulative_time'].max()
-# Generate 2000 timesteps
-time_steps = np.linspace(0, max_cumulative_time, 2000)  
+# Generate timesteps
+timesteps = np.linspace(0, max_cumulative_time, 2000)  
 
-# Define track TODO import custom track!
-track_x = np.array([0, 2, 4, 6, 7, 6, 4, 2, 0, -2, -4, -5, -4, -2, 0])
-track_y = np.array([0, 1, 2, 3, 5, 6, 7, 6, 5, 4, 3, 1, -1, -1, 0])
+# Hardcoded track
+# track_x = np.array([0, 2, 4, 6, 7, 6, 4, 2, 0, -2, -4, -5, -4, -2, 0])
+# track_y = np.array([0, 1, 2, 3, 5, 6, 7, 6, 5, 4, 3, 1, -1, -1, 0])
+# track_pts = np.column_stack((track_x, track_y))
+
+# Import track
+track_filepath = "tracks/austria_racetrack.csv"
+track_df = pd.read_csv(track_filepath)
+track_df['x'] = track_df['# x_m']
+track_df['y'] = track_df['y_m']
+track_df = track_df[['x', 'y']]# drop other rows such as track width
+
+track_x = track_df['x'].to_numpy()
+track_y = track_df['y'].to_numpy()
 track_pts = np.column_stack((track_x, track_y))
 
 # Segment distances along track
@@ -82,11 +90,7 @@ for driver in drivers:
     dot, = ax.plot([], [], 'o', label=driver, color=color)
     dots[driver] = dot
 
-# drivers = df['driver_code'].unique()
-# dots = {driver: ax.plot([], [], 'o', label=driver)[0] for driver in drivers}
-# colors = plt.cm.get_cmap('tab20', len(drivers))
-# for i, driver in enumerate(drivers):
-#     dots[driver].set_color(colors(i))
+is_paused = False
 
 # Init
 labels = {driver: ax.text(0, 0, driver, fontsize=6, ha='center') for driver in drivers}
@@ -100,7 +104,10 @@ def init():
 
 # Animation update
 def animate(frame):
-    t = time_steps[frame]
+    if is_paused:
+        return list(dots.values()) + list(labels.values()) + [lap_text]
+   
+    t = timesteps[frame]
     max_lap_displayed = 0
 
     for driver in drivers:
@@ -119,7 +126,6 @@ def animate(frame):
             frac = (t - t1) / (t2 - t1)
             lap_progress = completed + frac  # exact lap count (e.g., 17.42)
             s = lap_progress % 1.0           # current position within the lap
-            # lap_number = int(lap_progress)   # how many full laps completed
 
 
         x = x_interp(s % 1.0)
@@ -146,6 +152,13 @@ def animate(frame):
 
     return list(dots.values()) + list(labels.values()) + [lap_text]
 
-anim = FuncAnimation(fig, animate, frames=len(time_steps), init_func=init, blit=True, interval=20)
+anim = FuncAnimation(fig, animate, frames=len(timesteps), init_func=init, blit=True, interval=20)
 plt.legend(fontsize=6, loc='upper right')
+
+def on_key(event):
+    global is_paused
+    if event.key == ' ':  # spacebar toggles pause
+        is_paused = not is_paused
+fig.canvas.mpl_connect('key_press_event', on_key)
+
 plt.show()
