@@ -2,10 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 
-# TODO: Get driver times by reading in csv (pandas?) and then take averages in intervals and show laps (i.e. for 74 actual laps, run 7.4 laps)
-# TODO: Get driver names in 3 letters
-
-# Input lap times in seconds (example)
+# Harcoded lap times 
 lap_times = {
     'Driver A': 90,
     'Driver B': 95,
@@ -13,10 +10,10 @@ lap_times = {
 }
 
 # Normalize speeds so that the fastest driver has speed 1
-min_lap = min(lap_times.values())
-speeds = {driver: min_lap / time for driver, time in lap_times.items()}
+min_lap_time = min(lap_times.values())
+speeds = {driver: min_lap_time / time for driver, time in lap_times.items()}
 
-# Set up the track (a circle for simplicity)
+# Set up the track (circle)
 theta = np.linspace(0, 2 * np.pi, 1000)
 track_radius = 5
 x_track = track_radius * np.cos(theta)
