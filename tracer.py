@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from matplotlib.animation import FuncAnimation
 from scipy.interpolate import interp1d
 
-# team colors
+# Team colors
 team_colors = {
     'Mercedes': '#00D2BE',
     'Red Bull Racing': '#1E41FF',
@@ -32,38 +32,35 @@ df['cumulative_time'] = (
       .groupby('driver_code')['lap_time']
       .cumsum()
 )
-print(df.head())
+# print(df.head())
 
-# Determine max laps
+# Determine max laps; normalize cumulative race times; generate timestep 
 max_laps = df['lap_number'].max()
-
-# Normalize cumulative race times
 max_cumulative_time = df['cumulative_time'].max()
-# Generate timesteps
-timesteps = np.linspace(0, max_cumulative_time, 2000)  
+timesteps = np.linspace(0, max_cumulative_time, 2000)  # Less timesteps result in slower animation
 
 # Hardcoded track
 # track_x = np.array([0, 2, 4, 6, 7, 6, 4, 2, 0, -2, -4, -5, -4, -2, 0])
 # track_y = np.array([0, 1, 2, 3, 5, 6, 7, 6, 5, 4, 3, 1, -1, -1, 0])
 # track_pts = np.column_stack((track_x, track_y))
 
-# Import track
+# Imported track
 track_filepath = "tracks/austria_racetrack.csv"
 track_df = pd.read_csv(track_filepath)
 track_df['x'] = track_df['# x_m']
 track_df['y'] = track_df['y_m']
-track_df = track_df[['x', 'y']]# drop other rows such as track width
+track_df = track_df[['x', 'y']] # Drop other rows, such as track width
 
 track_x = track_df['x'].to_numpy()
 track_y = track_df['y'].to_numpy()
 track_pts = np.column_stack((track_x, track_y))
 
-# Segment distances along track
+# Calculate and normalize track segment lengths
 deltas = np.diff(track_pts, axis=0)
-segment_lengths = np.hypot(deltas[:, 0], deltas[:, 1]) # length of each segment
-cumulative_lengths = np.insert(np.cumsum(segment_lengths), 0, 0) # give each segment a length cumulative relative to start position
+segment_lengths = np.hypot(deltas[:, 0], deltas[:, 1])  
+cumulative_lengths = np.insert(np.cumsum(segment_lengths), 0, 0) # Give each segment a cumulative length relative to start position
 total_length = cumulative_lengths[-1]
-s_vals = cumulative_lengths / total_length # scale all cumulative distances to [0,1]
+s_vals = cumulative_lengths / total_length # Scale all cumulative distances to [0,1]
 
 # Create interpolators that send [0, 1] to an interpolated x and y coordinate
 x_interp = interp1d(s_vals, track_x, kind='linear', fill_value='extrapolate')
@@ -76,13 +73,11 @@ ax.set_aspect('equal')
 ax.axis('off')
 
 # Make lap counter
-lap_text = ax.text(0.02, 0.95, '', transform=ax.transAxes, fontsize=12, color='black', ha='left')
+lap_text = ax.text(0.02, 0.02, '', transform=ax.transAxes, fontsize=12, color='black', ha='left')
 
-# Get all drivers, plot colored dots
+# Get all drivers, plot colored dots by team colors
 drivers = df['driver_code'].unique()
-teams = df[['driver_code', 'team']].set_index('driver_code')['team'].to_dict() # dictionary {driver_code, team}
-
-# Create driver dots with team-based colors
+teams = df[['driver_code', 'team']].set_index('driver_code')['team'].to_dict() # A dictionary of {driver_code, team}
 dots = {}
 for driver in drivers:
     team = teams[driver]
@@ -90,10 +85,12 @@ for driver in drivers:
     dot, = ax.plot([], [], 'o', label=driver, color=color)
     dots[driver] = dot
 
+# Animation pause flag
 is_paused = False
 
-# Init
-labels = {driver: ax.text(0, 0, driver, fontsize=6, ha='center') for driver in drivers}
+# Driver labels
+labels = {driver: ax.text(0, 0, driver, fontsize=8, ha='center') for driver in drivers}
+
 def init():
     for dot in dots.values():
         dot.set_data([], [])
@@ -127,7 +124,6 @@ def animate(frame):
             lap_progress = completed + frac  # exact lap count (e.g., 17.42)
             s = lap_progress % 1.0           # current position within the lap
 
-
         x = x_interp(s % 1.0)
         y = y_interp(s % 1.0)
         dots[driver].set_data([x], [y])
@@ -153,7 +149,7 @@ def animate(frame):
     return list(dots.values()) + list(labels.values()) + [lap_text]
 
 anim = FuncAnimation(fig, animate, frames=len(timesteps), init_func=init, blit=True, interval=20)
-plt.legend(fontsize=6, loc='upper right')
+plt.legend(fontsize=8, loc='upper right')
 
 def on_key(event):
     global is_paused
