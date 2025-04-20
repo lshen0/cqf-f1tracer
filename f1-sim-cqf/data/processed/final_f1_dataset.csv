@@ -1,0 +1,1044 @@
+driver,lap_number,lap_time,position,Team,championships,employees,engine_manufacturer,aggressiveness,defensive_ability,stamina,total_overtakes,weather
+Valtteri Bottas,1.0,71.454,1.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,2.0,69.441,1.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,3.0,69.598,1.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,4.0,69.592,1.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,5.0,69.159,1.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,6.0,69.386,1.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,7.0,69.051,1.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,8.0,69.185,1.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,9.0,69.357,1.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,10.0,69.547,4.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,11.0,69.3,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,12.0,69.417,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,13.0,69.224,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,14.0,69.049,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,15.0,69.26,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,16.0,69.512,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,17.0,69.699,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,18.0,69.847,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,19.0,69.617,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,20.0,70.405,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,21.0,70.149,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,22.0,84.118,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,23.0,122.933,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,24.0,110.849,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,25.0,115.283,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,26.0,113.743,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,27.0,68.736,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,28.0,68.733,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,29.0,68.52,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,30.0,68.524,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,31.0,68.433,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,32.0,68.26,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,33.0,68.194,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,34.0,68.235,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,35.0,68.303,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,36.0,68.131,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,37.0,68.142,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,38.0,68.272,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,39.0,68.472,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,40.0,68.322,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,41.0,68.231,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,42.0,68.462,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,43.0,68.421,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,44.0,68.279,3.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,45.0,68.422,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,46.0,68.351,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,47.0,75.384,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,48.0,115.395,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,49.0,120.1,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,50.0,100.093,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,51.0,96.079,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,52.0,114.808,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,53.0,117.837,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,54.0,109.815,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,55.0,102.625,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,56.0,98.546,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,57.0,68.204,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,58.0,68.378,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,59.0,68.062,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,60.0,68.174,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,61.0,68.238,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,62.0,68.199,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,63.0,68.023,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,64.0,67.657,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,65.0,70.046,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,66.0,68.2,2.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Valtteri Bottas,67.0,68.412,1.0,Mercedes,8,1200,1,0.87,0.99,0.74,28.0,Sunny
+Charles Leclerc,1.0,76.847,7.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,2.0,71.418,7.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,3.0,69.925,7.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,4.0,70.271,7.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,5.0,70.31,7.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,6.0,70.287,7.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,7.0,70.596,7.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,8.0,70.611,7.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,9.0,70.333,9.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,10.0,70.308,9.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,11.0,70.278,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,12.0,70.138,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,13.0,70.177,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,14.0,70.072,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,15.0,69.954,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,16.0,70.181,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,17.0,70.245,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,18.0,70.392,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,19.0,70.117,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,20.0,70.199,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,21.0,89.806,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,22.0,110.117,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,23.0,101.051,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,24.0,114.953,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,25.0,107.566,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,26.0,70.877,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,27.0,70.125,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,28.0,69.596,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,29.0,69.538,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,30.0,69.245,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,31.0,69.479,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,32.0,69.263,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,33.0,68.973,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,34.0,69.184,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,35.0,69.112,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,36.0,69.126,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,37.0,69.12,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,38.0,69.103,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,39.0,69.218,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,40.0,69.581,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,41.0,69.129,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,42.0,69.031,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,43.0,68.781,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,44.0,69.153,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,45.0,69.085,7.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,46.0,84.7,7.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,47.0,107.833,8.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,48.0,104.214,7.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,49.0,94.516,7.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,50.0,101.27,7.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,51.0,114.511,7.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,52.0,115.821,7.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,53.0,110.846,7.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,54.0,103.477,7.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,55.0,93.349,7.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,56.0,70.053,6.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,57.0,68.916,6.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,58.0,68.389,6.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,59.0,67.901,5.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,60.0,68.339,5.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,61.0,68.02,4.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,62.0,68.073,4.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,63.0,68.127,4.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,64.0,68.324,4.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,65.0,67.935,4.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Charles Leclerc,66.0,68.26,4.0,Ferrari,16,700,1,0.91,0.81,0.6,40.0,Sunny
+Lando Norris,1.0,74.567,3.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,2.0,70.366,3.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,3.0,71.197,4.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,4.0,70.81,5.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,5.0,69.949,5.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,6.0,70.017,5.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,7.0,70.228,5.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,8.0,70.324,5.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,9.0,70.21,7.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,10.0,70.187,7.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,11.0,70.235,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,12.0,70.052,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,13.0,69.984,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,14.0,70.029,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,15.0,69.86,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,16.0,70.012,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,17.0,69.933,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,18.0,70.106,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,19.0,69.94,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,20.0,69.963,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,21.0,90.234,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,22.0,110.203,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,23.0,103.795,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,24.0,114.141,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,25.0,110.654,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,26.0,70.457,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,27.0,69.651,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,28.0,70.548,7.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,29.0,69.008,7.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,30.0,69.311,7.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,31.0,69.205,7.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,32.0,69.111,7.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,33.0,68.923,7.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,34.0,69.026,7.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,35.0,69.044,7.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,36.0,69.074,7.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,37.0,68.865,7.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,38.0,68.787,7.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,39.0,68.898,7.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,40.0,69.217,7.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,41.0,69.175,7.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,42.0,68.978,7.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,43.0,68.699,7.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,44.0,68.695,7.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,45.0,68.638,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,46.0,83.701,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,47.0,109.362,7.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,48.0,105.573,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,49.0,96.233,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,50.0,100.49,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,51.0,114.196,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,52.0,116.164,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,53.0,111.211,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,54.0,103.284,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,55.0,93.893,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,56.0,69.662,5.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,57.0,68.923,5.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,58.0,68.362,5.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,59.0,69.354,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,60.0,68.518,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,61.0,69.211,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,62.0,68.574,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,63.0,68.529,6.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,64.0,69.102,5.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,65.0,67.781,5.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lando Norris,66.0,67.475,5.0,McLaren,8,900,0,0.9,0.93,0.57,36.0,Sunny
+Lewis Hamilton,1.0,75.627,5.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,2.0,70.55,5.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,3.0,70.362,5.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,4.0,69.34,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,5.0,69.461,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,6.0,69.294,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,7.0,69.701,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,8.0,69.796,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,9.0,69.233,5.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,10.0,69.184,5.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,11.0,69.142,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,12.0,69.046,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,13.0,69.076,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,14.0,69.131,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,15.0,69.0,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,16.0,69.34,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,17.0,69.326,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,18.0,69.356,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,19.0,69.342,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,20.0,69.51,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,21.0,88.502,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,22.0,116.918,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,23.0,110.801,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,24.0,115.666,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,25.0,112.528,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,26.0,69.031,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,27.0,68.75,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,28.0,68.684,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,29.0,68.258,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,30.0,68.389,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,31.0,68.164,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,32.0,68.243,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,33.0,68.434,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,34.0,68.256,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,35.0,68.058,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,36.0,68.147,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,37.0,68.115,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,38.0,68.369,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,39.0,68.598,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,40.0,68.467,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,41.0,68.812,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,42.0,68.457,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,43.0,68.383,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,44.0,68.448,4.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,45.0,68.406,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,46.0,78.996,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,47.0,111.08,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,48.0,120.866,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,49.0,99.068,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,50.0,97.528,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,51.0,114.149,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,52.0,117.246,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,53.0,110.103,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,54.0,103.337,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,55.0,97.005,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,56.0,69.036,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,57.0,68.578,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,58.0,68.572,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,59.0,68.535,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,60.0,68.182,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,61.0,68.092,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,62.0,67.712,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,63.0,67.916,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,64.0,68.584,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,65.0,68.419,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Lewis Hamilton,66.0,68.203,3.0,Mercedes,8,1200,1,0.92,0.84,0.92,19.0,Sunny
+Carlos Sainz,1.0,77.168,8.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,2.0,71.958,8.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,3.0,70.243,8.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,4.0,70.316,8.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,5.0,70.317,8.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,6.0,70.342,8.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,7.0,70.563,8.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,8.0,70.651,8.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,9.0,70.421,10.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,10.0,70.322,10.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,11.0,70.378,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,12.0,70.405,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,13.0,70.434,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,14.0,70.25,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,15.0,70.01,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,16.0,70.105,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,17.0,70.051,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,18.0,70.133,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,19.0,70.316,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,20.0,70.141,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,21.0,90.179,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,22.0,112.463,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,23.0,97.161,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,24.0,115.235,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,25.0,106.943,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,26.0,71.454,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,27.0,70.021,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,28.0,69.718,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,29.0,69.32,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,30.0,69.328,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,31.0,69.685,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,32.0,69.246,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,33.0,69.365,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,34.0,69.427,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,35.0,69.46,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,36.0,69.105,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,37.0,69.457,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,38.0,69.329,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,39.0,69.243,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,40.0,69.374,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,41.0,69.22,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,42.0,69.089,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,43.0,68.928,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,44.0,68.974,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,45.0,69.232,8.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,46.0,84.968,8.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,47.0,95.696,6.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,48.0,117.478,10.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,49.0,92.324,10.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,50.0,101.084,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,51.0,116.046,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,52.0,114.877,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,53.0,110.839,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,54.0,103.568,9.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,55.0,92.073,10.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,56.0,70.526,8.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,57.0,68.576,7.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,58.0,67.974,7.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,59.0,68.497,7.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,60.0,68.446,7.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,61.0,69.339,7.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,62.0,68.917,7.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,63.0,68.712,7.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,64.0,69.155,7.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,65.0,69.028,7.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Carlos Sainz,66.0,68.308,6.0,McLaren,8,900,0,0.0,0.0,0.0,42.0,Sunny
+Sergio Perez,1.0,76.326,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,2.0,70.812,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,3.0,70.271,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,4.0,70.265,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,5.0,70.062,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,6.0,69.922,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,7.0,70.417,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,8.0,70.291,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,9.0,70.717,8.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,10.0,70.701,8.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,11.0,70.555,7.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,12.0,70.34,7.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,13.0,70.261,7.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,14.0,70.162,7.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,15.0,70.06,7.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,16.0,69.828,7.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,17.0,70.14,7.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,18.0,69.775,7.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,19.0,70.002,7.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,20.0,70.011,7.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,21.0,88.737,7.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,22.0,109.475,7.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,23.0,103.896,7.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,24.0,114.857,7.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,25.0,109.313,7.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,26.0,70.708,7.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,27.0,69.819,7.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,28.0,68.837,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,29.0,68.634,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,30.0,68.495,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,31.0,69.229,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,32.0,68.669,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,33.0,68.91,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,34.0,68.799,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,35.0,68.885,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,36.0,68.962,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,37.0,68.748,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,38.0,68.788,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,39.0,68.9,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,40.0,69.31,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,41.0,68.797,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,42.0,68.633,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,43.0,68.515,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,44.0,68.558,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,45.0,68.482,5.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,46.0,82.569,5.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,47.0,97.867,4.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,48.0,119.664,4.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,49.0,98.406,4.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,50.0,98.135,4.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,51.0,113.979,4.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,52.0,116.971,4.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,53.0,111.032,4.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,54.0,103.868,5.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,55.0,95.607,5.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,56.0,69.426,4.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,57.0,68.748,4.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,58.0,68.305,4.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,59.0,68.554,4.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,60.0,68.546,4.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,61.0,69.858,5.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,62.0,68.374,5.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,63.0,68.921,5.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,64.0,70.695,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,65.0,68.718,6.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Sergio Perez,66.0,70.28,7.0,Racing Point,0,0,0,0.9,0.76,0.8,57.0,Sunny
+Pierre Gasly,1.0,79.106,12.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,2.0,72.412,12.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,3.0,71.311,12.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,4.0,70.725,12.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,5.0,71.511,12.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,6.0,72.028,12.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,7.0,71.173,12.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,8.0,70.912,12.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,9.0,70.827,14.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,10.0,70.97,14.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,11.0,70.953,13.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,12.0,70.762,12.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,13.0,70.844,12.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,14.0,70.712,11.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,15.0,70.939,11.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,16.0,70.733,11.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,17.0,70.535,11.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,18.0,70.672,11.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,19.0,70.568,11.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,20.0,70.61,11.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,21.0,95.769,11.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,22.0,109.983,11.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,23.0,81.92,11.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,24.0,114.011,11.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,25.0,105.599,11.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,26.0,71.099,10.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,27.0,70.283,10.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,28.0,69.999,10.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,29.0,69.628,10.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,30.0,69.952,10.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,31.0,69.969,10.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,32.0,69.864,10.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,33.0,69.576,10.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,34.0,69.839,10.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,35.0,69.821,10.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,36.0,69.813,10.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,37.0,69.805,10.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,38.0,69.595,10.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,39.0,69.821,10.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,40.0,70.115,10.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,41.0,69.646,10.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,42.0,69.453,10.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,43.0,69.429,10.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,44.0,69.37,10.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,45.0,69.37,9.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,46.0,88.958,9.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,47.0,94.649,9.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,48.0,103.812,8.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,49.0,93.431,8.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,50.0,101.284,8.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,51.0,115.497,8.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,52.0,115.197,8.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,53.0,110.947,8.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,54.0,103.204,8.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,55.0,92.585,8.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,56.0,70.672,7.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,57.0,70.37,8.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,58.0,69.341,8.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,59.0,69.025,8.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,60.0,69.359,8.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,61.0,69.943,8.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,62.0,69.521,8.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,63.0,69.361,8.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,64.0,69.484,8.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,65.0,69.121,8.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Pierre Gasly,66.0,69.64,8.0,AlphaTauri,0,400,0,0.86,0.96,0.57,48.0,Sunny
+Esteban Ocon,1.0,80.678,16.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,2.0,73.291,16.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,3.0,71.786,16.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,4.0,71.415,16.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,5.0,72.056,16.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,6.0,71.727,16.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,7.0,71.816,16.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,8.0,71.64,16.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,9.0,70.935,18.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,10.0,70.703,17.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,11.0,70.85,16.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,12.0,71.347,15.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,13.0,71.155,15.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,14.0,70.782,15.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,15.0,70.874,14.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,16.0,71.014,14.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,17.0,70.617,14.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,18.0,70.826,14.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,19.0,71.056,14.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,20.0,77.862,13.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,21.0,92.675,13.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,22.0,100.493,13.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,23.0,80.267,13.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,24.0,114.091,13.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,25.0,103.941,13.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,26.0,71.098,12.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,27.0,70.594,12.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,28.0,70.15,12.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,29.0,69.777,12.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,30.0,70.3,12.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,31.0,70.6,12.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,32.0,70.066,12.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,33.0,70.425,12.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,34.0,69.892,12.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,35.0,69.703,12.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,36.0,70.321,12.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,37.0,69.563,12.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,38.0,69.729,12.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,39.0,69.528,12.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,40.0,69.666,12.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,41.0,69.313,12.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,42.0,69.264,12.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,43.0,69.456,12.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,44.0,69.691,12.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,45.0,69.299,11.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,46.0,89.574,11.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,47.0,93.731,10.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,48.0,101.602,9.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,49.0,92.905,9.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,50.0,102.357,10.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,51.0,116.363,10.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,52.0,114.426,10.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,53.0,110.739,10.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,54.0,103.597,10.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,55.0,91.146,9.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,56.0,71.756,9.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,57.0,69.809,9.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,58.0,69.528,9.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,59.0,68.932,9.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,60.0,69.16,9.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,61.0,69.903,9.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,62.0,69.691,9.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,63.0,69.157,9.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,64.0,69.733,9.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,65.0,68.912,9.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Esteban Ocon,66.0,69.665,9.0,Renault,0,0,0,0.91,0.86,0.58,32.0,Sunny
+Antonio Giovinazzi,1.0,80.013,14.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,2.0,72.959,14.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,3.0,71.633,14.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,4.0,71.482,14.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,5.0,71.848,14.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,6.0,72.479,15.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,7.0,71.83,15.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,8.0,71.584,15.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,9.0,70.987,17.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,10.0,72.546,18.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,11.0,71.406,17.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,12.0,71.093,16.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,13.0,72.451,17.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,14.0,71.027,17.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,15.0,71.03,17.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,16.0,71.165,16.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,17.0,70.867,16.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,18.0,70.902,16.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,19.0,70.971,15.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,20.0,78.971,14.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,21.0,137.383,14.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,22.0,84.006,14.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,23.0,73.014,14.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,24.0,89.54,14.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,25.0,103.562,14.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,26.0,71.026,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,27.0,70.785,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,28.0,70.152,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,29.0,70.073,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,30.0,70.3,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,31.0,70.412,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,32.0,70.325,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,33.0,70.15,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,34.0,70.111,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,35.0,70.321,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,36.0,69.992,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,37.0,69.939,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,38.0,69.654,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,39.0,69.83,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,40.0,69.894,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,41.0,69.525,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,42.0,69.211,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,43.0,69.436,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,44.0,69.372,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,45.0,69.232,12.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,46.0,88.519,12.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,47.0,95.51,11.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,48.0,100.907,11.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,49.0,91.917,11.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,50.0,101.434,11.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,51.0,122.702,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,52.0,112.419,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,53.0,110.349,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,54.0,104.39,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,55.0,88.209,13.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,56.0,71.187,12.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,57.0,70.533,12.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,58.0,69.235,11.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,59.0,70.749,11.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,60.0,70.404,11.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,61.0,70.726,11.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,62.0,68.893,10.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,63.0,69.141,10.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,64.0,69.167,10.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,65.0,68.796,10.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Antonio Giovinazzi,66.0,69.178,10.0,Alfa Romeo,0,300,0,0.76,0.68,0.52,18.0,Sunny
+Sebastian Vettel,1.0,78.362,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,2.0,72.072,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,3.0,70.67,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,4.0,70.483,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,5.0,70.422,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,6.0,70.594,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,7.0,70.841,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,8.0,70.716,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,9.0,70.649,12.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,10.0,70.823,12.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,11.0,70.65,11.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,12.0,70.994,11.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,13.0,70.617,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,14.0,70.604,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,15.0,70.332,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,16.0,70.455,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,17.0,70.529,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,18.0,70.644,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,19.0,70.653,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,20.0,70.778,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,21.0,93.851,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,22.0,110.02,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,23.0,87.415,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,24.0,113.981,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,25.0,106.73,10.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,26.0,80.761,16.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,27.0,70.065,16.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,28.0,70.032,16.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,29.0,69.59,16.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,30.0,70.785,16.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,31.0,70.077,16.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,32.0,69.508,16.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,33.0,69.775,16.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,34.0,69.469,16.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,35.0,69.812,16.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,36.0,69.743,16.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,37.0,69.863,16.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,38.0,70.043,16.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,39.0,70.485,16.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,40.0,70.875,16.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,41.0,70.049,16.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,42.0,69.669,16.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,43.0,69.576,16.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,44.0,69.446,16.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,45.0,69.755,14.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,46.0,92.503,14.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,47.0,110.124,14.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,48.0,80.445,14.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,49.0,88.931,13.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,50.0,102.023,13.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,51.0,117.835,12.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,52.0,112.817,12.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,53.0,110.336,12.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,54.0,104.46,12.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,55.0,89.292,12.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,56.0,71.743,11.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,57.0,70.433,11.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,58.0,70.387,12.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,59.0,70.415,12.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,60.0,70.623,12.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,61.0,70.755,12.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,62.0,71.236,13.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,63.0,70.004,12.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,64.0,69.453,11.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,65.0,68.729,11.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Sebastian Vettel,66.0,68.623,11.0,Ferrari,16,700,1,0.87,0.82,0.9,34.0,Sunny
+Nicholas Latifi,1.0,82.2,20.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,2.0,73.861,20.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,3.0,72.354,20.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,4.0,71.901,20.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,5.0,71.919,20.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,6.0,71.812,20.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,7.0,72.103,20.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,8.0,72.201,20.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,9.0,71.681,4.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,10.0,71.663,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,11.0,71.746,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,12.0,71.845,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,13.0,71.743,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,14.0,71.605,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,15.0,72.716,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,16.0,71.818,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,17.0,71.24,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,18.0,71.213,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,19.0,73.943,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,20.0,86.061,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,21.0,117.217,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,22.0,120.782,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,23.0,97.331,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,24.0,75.231,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,25.0,72.15,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,26.0,71.29,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,27.0,70.895,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,28.0,70.483,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,29.0,70.436,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,30.0,70.841,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,31.0,70.812,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,32.0,70.334,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,33.0,70.311,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,34.0,70.292,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,35.0,70.442,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,36.0,70.273,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,37.0,70.262,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,38.0,70.229,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,39.0,70.305,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,40.0,70.298,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,41.0,70.038,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,42.0,69.817,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,43.0,70.265,2.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,44.0,70.76,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,45.0,76.161,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,46.0,95.318,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,47.0,97.124,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,48.0,73.419,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,49.0,81.845,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,50.0,101.9,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,51.0,118.167,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,52.0,112.812,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,53.0,110.087,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,54.0,104.493,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,55.0,89.059,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,56.0,72.088,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,57.0,70.688,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,58.0,69.662,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,59.0,70.933,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,60.0,70.91,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,61.0,70.709,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,62.0,70.393,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,63.0,70.906,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,64.0,70.613,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,65.0,71.012,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Nicholas Latifi,66.0,70.86,1.0,Williams,9,700,0,0.72,0.75,0.51,12.0,Sunny
+Daniil Kvyat,1.0,80.36,15.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,2.0,73.127,15.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,3.0,71.726,15.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,4.0,71.327,15.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,5.0,72.095,15.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,6.0,70.997,14.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,7.0,70.962,13.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,8.0,71.132,13.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,9.0,70.753,15.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,10.0,71.003,15.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,11.0,70.831,14.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,12.0,71.19,13.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,13.0,70.637,13.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,14.0,70.839,13.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,15.0,70.928,12.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,16.0,70.784,12.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,17.0,70.523,12.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,18.0,70.59,12.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,19.0,70.42,12.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,20.0,70.655,12.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,21.0,102.32,12.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,22.0,104.17,12.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,23.0,80.17,12.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,24.0,114.238,12.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,25.0,104.41,12.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,26.0,70.997,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,27.0,70.473,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,28.0,70.128,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,29.0,69.898,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,30.0,70.224,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,31.0,70.657,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,32.0,70.035,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,33.0,70.461,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,34.0,69.827,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,35.0,69.769,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,36.0,70.086,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,37.0,69.734,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,38.0,69.473,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,39.0,69.375,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,40.0,69.829,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,41.0,69.327,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,42.0,69.286,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,43.0,69.703,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,44.0,69.663,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,45.0,69.135,10.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,46.0,87.749,10.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,47.0,108.009,12.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,48.0,93.944,12.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,49.0,90.35,12.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,50.0,102.464,12.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,51.0,116.833,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,52.0,114.212,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,53.0,110.394,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,54.0,104.104,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,55.0,89.982,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,56.0,71.427,10.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,57.0,70.11,10.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,58.0,70.242,10.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,59.0,70.781,10.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,60.0,70.378,10.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,61.0,70.623,10.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,62.0,71.475,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,63.0,70.456,11.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Daniil Kvyat,64.0,71.794,12.0,AlphaTauri,0,400,0,0.86,0.71,0.66,32.0,Sunny
+Alexander Albon,1.0,75.104,4.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,2.0,70.362,4.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,3.0,69.579,3.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,4.0,69.853,3.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,5.0,69.412,3.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,6.0,69.525,3.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,7.0,69.808,3.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,8.0,69.649,3.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,9.0,70.01,6.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,10.0,70.108,6.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,11.0,70.082,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,12.0,69.823,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,13.0,69.907,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,14.0,70.085,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,15.0,69.947,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,16.0,70.102,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,17.0,69.896,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,18.0,69.997,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,19.0,69.935,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,20.0,69.919,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,21.0,87.164,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,22.0,110.964,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,23.0,106.649,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,24.0,115.676,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,25.0,112.142,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,26.0,70.05,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,27.0,69.365,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,28.0,69.271,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,29.0,68.703,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,30.0,68.618,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,31.0,68.703,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,32.0,68.593,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,33.0,68.734,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,34.0,68.722,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,35.0,68.678,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,36.0,68.774,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,37.0,68.88,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,38.0,69.007,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,39.0,68.827,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,40.0,69.12,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,41.0,69.085,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,42.0,68.743,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,43.0,68.637,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,44.0,68.584,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,45.0,68.432,4.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,46.0,80.622,4.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,47.0,109.417,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,48.0,113.584,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,49.0,97.29,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,50.0,99.511,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,51.0,114.081,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,52.0,116.349,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,53.0,111.006,5.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,54.0,101.457,4.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,55.0,96.508,4.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,56.0,76.768,13.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,57.0,70.174,13.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,58.0,69.61,13.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,59.0,69.92,13.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,60.0,70.521,13.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,61.0,70.859,13.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Alexander Albon,62.0,70.182,12.0,Red Bull Racing,4,1000,1,0.86,0.66,0.57,61.0,Sunny
+Kimi Raikkönen,1.0,80.781,17.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,2.0,73.309,17.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,3.0,72.098,17.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,4.0,71.372,17.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,5.0,71.92,17.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,6.0,71.893,17.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,7.0,71.771,17.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,8.0,71.941,17.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,10.0,71.366,19.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,11.0,71.588,18.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,12.0,71.213,17.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,13.0,70.375,16.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,14.0,70.752,16.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,15.0,70.727,15.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,16.0,70.57,15.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,17.0,70.713,15.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,18.0,70.898,15.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,19.0,74.725,16.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,20.0,103.423,16.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,21.0,113.799,16.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,22.0,83.601,16.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,23.0,73.482,16.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,24.0,90.605,16.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,25.0,102.148,16.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,26.0,70.779,15.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,27.0,70.997,15.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,28.0,70.4,15.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,29.0,70.188,15.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,30.0,70.332,15.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,31.0,70.355,15.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,32.0,70.007,15.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,33.0,70.336,15.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,34.0,70.496,15.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,35.0,70.158,15.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,36.0,69.962,15.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,37.0,70.013,15.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,38.0,69.952,15.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,39.0,69.4,14.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,40.0,69.973,14.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,41.0,69.432,14.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,42.0,69.062,14.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,43.0,69.031,14.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,44.0,69.417,14.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,45.0,69.384,13.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,46.0,90.453,13.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,47.0,108.39,13.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+Kimi Raikkönen,48.0,87.815,13.0,Alfa Romeo,0,300,0,0.84,0.76,0.99,0.0,Sunny
+George Russell,1.0,81.596,19.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,2.0,73.736,19.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,3.0,72.334,19.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,4.0,71.594,19.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,5.0,71.724,19.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,6.0,72.13,19.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,7.0,72.152,19.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,8.0,71.784,19.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,10.0,71.563,20.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,11.0,71.674,19.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,12.0,71.538,18.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,13.0,71.186,18.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,14.0,71.053,18.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,15.0,71.21,18.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,16.0,71.014,17.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,17.0,70.891,17.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,18.0,71.039,17.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,19.0,71.106,17.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,20.0,79.305,15.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,21.0,134.065,15.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,22.0,83.33,15.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,23.0,73.15,15.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,24.0,90.313,15.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,25.0,102.414,15.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,26.0,71.215,14.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,27.0,70.962,14.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,28.0,70.317,14.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,29.0,70.148,14.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,30.0,70.107,14.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,31.0,70.393,14.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,32.0,70.312,14.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,33.0,70.236,14.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,34.0,70.335,14.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,35.0,70.261,14.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,36.0,69.901,14.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,37.0,70.22,14.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,38.0,70.025,14.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,39.0,71.19,15.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,40.0,70.457,15.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,41.0,70.014,15.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,42.0,69.693,15.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,43.0,69.888,15.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+George Russell,44.0,69.317,15.0,Williams,9,700,0,0.69,0.93,0.57,32.0,Sunny
+Romain Grosjean,1.0,81.365,18.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,2.0,73.534,18.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,3.0,72.183,18.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,4.0,71.576,18.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,5.0,71.829,18.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,6.0,71.868,18.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,7.0,71.904,18.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,8.0,72.008,18.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,9.0,71.437,3.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,10.0,71.377,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,11.0,71.224,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,12.0,71.554,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,13.0,71.526,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,14.0,71.243,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,15.0,85.87,2.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,16.0,92.297,2.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,17.0,72.924,2.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,18.0,74.399,2.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,19.0,71.061,2.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,20.0,91.223,2.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,21.0,95.554,2.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,22.0,104.706,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,23.0,92.143,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,24.0,71.366,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,25.0,71.083,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,26.0,71.07,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,27.0,70.909,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,28.0,71.264,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,29.0,70.376,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,30.0,70.726,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,31.0,72.43,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,32.0,70.681,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,33.0,70.403,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,34.0,70.94,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,35.0,70.567,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,36.0,70.342,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,37.0,70.339,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,38.0,70.305,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,39.0,70.36,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,40.0,70.476,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,41.0,70.228,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,42.0,70.261,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,43.0,71.175,1.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Romain Grosjean,44.0,126.287,2.0,Haas,0,250,0,0.79,0.74,0.78,15.0,Sunny
+Kevin Magnussen,1.0,79.587,13.0,Haas,0,250,0,0.78,0.73,0.68,13.0,Sunny
+Kevin Magnussen,2.0,72.762,13.0,Haas,0,250,0,0.78,0.73,0.68,13.0,Sunny
+Kevin Magnussen,3.0,71.531,13.0,Haas,0,250,0,0.78,0.73,0.68,13.0,Sunny
+Kevin Magnussen,4.0,71.582,13.0,Haas,0,250,0,0.78,0.73,0.68,13.0,Sunny
+Kevin Magnussen,5.0,71.879,13.0,Haas,0,250,0,0.78,0.73,0.68,13.0,Sunny
+Kevin Magnussen,6.0,71.463,13.0,Haas,0,250,0,0.78,0.73,0.68,13.0,Sunny
+Kevin Magnussen,7.0,72.869,14.0,Haas,0,250,0,0.78,0.73,0.68,13.0,Sunny
+Kevin Magnussen,8.0,71.489,14.0,Haas,0,250,0,0.78,0.73,0.68,13.0,Sunny
+Kevin Magnussen,9.0,71.152,16.0,Haas,0,250,0,0.78,0.73,0.68,13.0,Sunny
+Kevin Magnussen,10.0,71.386,16.0,Haas,0,250,0,0.78,0.73,0.68,13.0,Sunny
+Kevin Magnussen,11.0,71.075,15.0,Haas,0,250,0,0.78,0.73,0.68,13.0,Sunny
+Kevin Magnussen,12.0,71.766,14.0,Haas,0,250,0,0.78,0.73,0.68,13.0,Sunny
+Kevin Magnussen,13.0,71.274,14.0,Haas,0,250,0,0.78,0.73,0.68,13.0,Sunny
+Kevin Magnussen,14.0,70.974,14.0,Haas,0,250,0,0.78,0.73,0.68,13.0,Sunny
+Kevin Magnussen,15.0,70.852,13.0,Haas,0,250,0,0.78,0.73,0.68,13.0,Sunny
+Kevin Magnussen,16.0,70.843,13.0,Haas,0,250,0,0.78,0.73,0.68,13.0,Sunny
+Kevin Magnussen,17.0,70.884,13.0,Haas,0,250,0,0.78,0.73,0.68,13.0,Sunny
+Kevin Magnussen,18.0,70.72,13.0,Haas,0,250,0,0.78,0.73,0.68,13.0,Sunny
+Kevin Magnussen,19.0,71.243,13.0,Haas,0,250,0,0.78,0.73,0.68,13.0,Sunny
+Lance Stroll,1.0,77.583,9.0,Racing Point,0,0,0,0.86,0.71,0.6,23.0,Sunny
+Lance Stroll,2.0,72.184,9.0,Racing Point,0,0,0,0.86,0.71,0.6,23.0,Sunny
+Lance Stroll,3.0,70.57,9.0,Racing Point,0,0,0,0.86,0.71,0.6,23.0,Sunny
+Lance Stroll,4.0,70.326,9.0,Racing Point,0,0,0,0.86,0.71,0.6,23.0,Sunny
+Lance Stroll,5.0,70.333,9.0,Racing Point,0,0,0,0.86,0.71,0.6,23.0,Sunny
+Lance Stroll,6.0,70.508,9.0,Racing Point,0,0,0,0.86,0.71,0.6,23.0,Sunny
+Lance Stroll,7.0,70.845,9.0,Racing Point,0,0,0,0.86,0.71,0.6,23.0,Sunny
+Lance Stroll,8.0,70.655,9.0,Racing Point,0,0,0,0.86,0.71,0.6,23.0,Sunny
+Lance Stroll,9.0,70.629,11.0,Racing Point,0,0,0,0.86,0.71,0.6,23.0,Sunny
+Lance Stroll,10.0,70.734,11.0,Racing Point,0,0,0,0.86,0.71,0.6,23.0,Sunny
+Lance Stroll,11.0,70.611,10.0,Racing Point,0,0,0,0.86,0.71,0.6,23.0,Sunny
+Lance Stroll,12.0,71.431,10.0,Racing Point,0,0,0,0.86,0.71,0.6,23.0,Sunny
+Lance Stroll,13.0,74.041,11.0,Racing Point,0,0,0,0.86,0.71,0.6,23.0,Sunny
+Lance Stroll,14.0,75.253,12.0,Racing Point,0,0,0,0.86,0.71,0.6,23.0,Sunny
+Lance Stroll,15.0,79.51,16.0,Racing Point,0,0,0,0.86,0.71,0.6,23.0,Sunny
+Daniel Ricciardo,1.0,78.766,11.0,Renault,0,0,0,0.9,0.84,0.79,28.0,Sunny
+Daniel Ricciardo,2.0,72.125,11.0,Renault,0,0,0,0.9,0.84,0.79,28.0,Sunny
+Daniel Ricciardo,3.0,71.236,11.0,Renault,0,0,0,0.9,0.84,0.79,28.0,Sunny
+Daniel Ricciardo,4.0,70.628,11.0,Renault,0,0,0,0.9,0.84,0.79,28.0,Sunny
+Daniel Ricciardo,5.0,70.636,11.0,Renault,0,0,0,0.9,0.84,0.79,28.0,Sunny
+Daniel Ricciardo,6.0,70.954,11.0,Renault,0,0,0,0.9,0.84,0.79,28.0,Sunny
+Daniel Ricciardo,7.0,70.813,11.0,Renault,0,0,0,0.9,0.84,0.79,28.0,Sunny
+Daniel Ricciardo,8.0,70.61,11.0,Renault,0,0,0,0.9,0.84,0.79,28.0,Sunny
+Daniel Ricciardo,9.0,70.814,13.0,Renault,0,0,0,0.9,0.84,0.79,28.0,Sunny
+Daniel Ricciardo,10.0,70.828,13.0,Renault,0,0,0,0.9,0.84,0.79,28.0,Sunny
+Daniel Ricciardo,11.0,70.824,12.0,Renault,0,0,0,0.9,0.84,0.79,28.0,Sunny
+Daniel Ricciardo,12.0,98.32,19.0,Renault,0,0,0,0.9,0.84,0.79,28.0,Sunny
+Max Verstappen,1.0,73.501,2.0,Red Bull Racing,4,1000,1,0.94,0.97,0.68,9.0,Sunny
+Max Verstappen,2.0,69.859,2.0,Red Bull Racing,4,1000,1,0.94,0.97,0.68,9.0,Sunny
+Max Verstappen,3.0,69.38,2.0,Red Bull Racing,4,1000,1,0.94,0.97,0.68,9.0,Sunny
+Max Verstappen,4.0,69.428,2.0,Red Bull Racing,4,1000,1,0.94,0.97,0.68,9.0,Sunny
+Max Verstappen,5.0,69.351,2.0,Red Bull Racing,4,1000,1,0.94,0.97,0.68,9.0,Sunny
+Max Verstappen,6.0,69.469,2.0,Red Bull Racing,4,1000,1,0.94,0.97,0.68,9.0,Sunny
+Max Verstappen,7.0,69.577,2.0,Red Bull Racing,4,1000,1,0.94,0.97,0.68,9.0,Sunny
+Max Verstappen,8.0,69.538,2.0,Red Bull Racing,4,1000,1,0.94,0.97,0.68,9.0,Sunny
+Max Verstappen,9.0,69.459,2.0,Red Bull Racing,4,1000,1,0.94,0.97,0.68,9.0,Sunny
+Max Verstappen,10.0,138.665,3.0,Red Bull Racing,4,1000,1,0.94,0.97,0.68,9.0,Sunny

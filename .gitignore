@@ -1,2 +1,4 @@
 venv/
 .DS_Store
+f1_cache/fast
+f1_http_cache.sqlite
