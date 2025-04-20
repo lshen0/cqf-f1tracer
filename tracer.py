@@ -37,7 +37,7 @@ df['cumulative_time'] = (
 # Determine max laps; normalize cumulative race times; generate timestep 
 max_laps = df['lap_number'].max()
 max_cumulative_time = df['cumulative_time'].max()
-timesteps = np.linspace(0, max_cumulative_time, 2000)  # Less timesteps result in slower animation
+timesteps = np.linspace(0, max_cumulative_time, 10000)  # Less timesteps result in faster animation
 
 # Hardcoded track
 # track_x = np.array([0, 2, 4, 6, 7, 6, 4, 2, 0, -2, -4, -5, -4, -2, 0])
